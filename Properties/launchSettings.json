@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PFR  dynamic candidate csv export": {
+      "commandName": "Project",
+      "commandLineArgs": "Client40_MCGHealth ATL Y Y Y  ReqStatus,ReqDateAFTER  (1;2;4;9),20200831 d:\\temp\\ "
+    }
+  }
+}

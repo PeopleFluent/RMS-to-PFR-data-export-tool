@@ -1,0 +1,89 @@
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\PFR  dynamic candidate csv export.exe
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\PFR  dynamic candidate csv export.deps.json
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\PFR  dynamic candidate csv export.runtimeconfig.json
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\PFR  dynamic candidate csv export.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\ref\PFR  dynamic candidate csv export.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\PFR  dynamic candidate csv export.pdb
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Azure.Core.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Azure.Identity.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\CsvHelper.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Assessment.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Assessment.Types.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.ConnectionInfo.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Dmf.Common.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Dmf.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Management.Assessment.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Management.Collector.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Management.HadrData.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Management.HadrModel.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEvent.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.PolicyEnum.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Smo.Notebook.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.Smo.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.SmoExtended.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.SqlEnum.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.SqlServer.WmiEnum.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\System.CodeDom.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\System.Management.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\System.Memory.Data.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\obj\Debug\net6.0\PFR  dynamic candidate csv export.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\obj\Debug\net6.0\PFR  dynamic candidate csv export.AssemblyInfoInputs.cache
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\obj\Debug\net6.0\PFR  dynamic candidate csv export.AssemblyInfo.cs
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\obj\Debug\net6.0\PFR  dynamic candidate csv export.csproj.CoreCompileInputs.cache
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\obj\Debug\net6.0\PFR  dynamic candidate csv export.csproj.CopyComplete
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\obj\Debug\net6.0\PFR  dynamic candidate csv export.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\obj\Debug\net6.0\ref\PFR  dynamic candidate csv export.dll
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\obj\Debug\net6.0\PFR  dynamic candidate csv export.pdb
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\obj\Debug\net6.0\PFR  dynamic candidate csv export.genruntimeconfig.cache
+D:\GitHub\OpsDBAdmin\DBAs\Paul.Layne\PFR  dynamic candidate csv export app\PFR  dynamic candidate csv export\obj\Debug\net6.0\PFR  dynamic candidate csv export.csproj.AssemblyReference.cache
